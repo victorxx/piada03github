@@ -170,7 +170,8 @@
         const piadas = [
             {id:1, pergunta: "Entrevista com roberto carlos", arquivo: "https://www.piada.com/arquivos/a691/entrevistacomrobertocarlos.mp3" },
             {id:2,pergunta:"Silvio santo bin laden",arquivo:"https://www.piada.com/arquivos/a691/silviosantosebinladen.mp3"},
-            {id:3,pergunta:"Silvio santos no motel",arquivo:"https://www.piada.com/arquivos/a691/silviosantosnomotel.mp3"}
+            {id:3,pergunta:"Silvio santos no motel",arquivo:"https://www.piada.com/arquivos/a691/silviosantosnomotel.mp3"},
+            {id:4,pergunta:"Boa tarde bando de desgraça filho da puta",arquivo:"01.mp3"}
           
         ];
 
